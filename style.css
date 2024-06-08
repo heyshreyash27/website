@@ -39,14 +39,14 @@ html, body {
 #lnavr i {
     color: black;
     font-size: 20px;
-    margin-left: 20px; /* Adjust spacing as needed */
+    margin-left: 20px; 
 }
 
 #left {
     position: relative;
     width: 40%;
     height: 100%;
-    background-color: #F5F5DC; /* Soft Beige */
+    background-color: #F5F5DC; 
 }
 
 
@@ -69,7 +69,7 @@ html, body {
 
     font-size: 70px;
     font-weight: 900;
-    color: #078107; /* Change to green color */
+    color: #078107;
     
 }
 
@@ -186,7 +186,7 @@ html, body {
         display: flex;
         justify-content: space-between;
         width: 100%;
-        padding: 20px 30px 10px; /* Adjusted padding */
+        padding: 20px 30px 10px; 
     }
     
 
