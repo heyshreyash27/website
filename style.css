@@ -68,11 +68,12 @@ html, body {
 #textcenter h1 {
     font-size: 70px;
     font-weight: 900;
-    color: #006400 !important; /* Change to green color and add !important to override other styles */
+    color: #078107; /* Change to green color */
     text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3); /* Keep text shadow for better contrast */
     line-height: 1; /* Adjust line height for a tighter appearance */
     margin-top: 10px; /* Adjust margin for spacing */
 }
+
 
     
 
