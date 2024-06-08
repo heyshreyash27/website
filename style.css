@@ -39,14 +39,14 @@ html, body {
 #lnavr i {
     color: black;
     font-size: 20px;
-    margin-left: 20px; 
+    margin-left: 20px; /* Adjust spacing as needed */
 }
 
 #left {
     position: relative;
     width: 40%;
     height: 100%;
-    background-color: #F5F5DC; 
+    background-color: #F5F5DC; /* Soft Beige */
 }
 
 
@@ -66,12 +66,14 @@ html, body {
 }
 
 #textcenter h1 {
-
-    font-size: 70px;
+    font-size: 100px;
     font-weight: 900;
-    color: #078107;
-    
+    color: #0a8540; /* Darker green color */
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Modern sans-serif font */
 }
+
+
 
 
 
@@ -186,7 +188,7 @@ html, body {
         display: flex;
         justify-content: space-between;
         width: 100%;
-        padding: 20px 30px 10px; 
+        padding: 20px 30px 10px; /* Adjusted padding */
     }
     
 
